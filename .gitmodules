@@ -7,3 +7,6 @@
 [submodule "themes/jht"]
 	path = themes/jht
 	url = git@github.com:jemoore/jemoore-hugo-theme.git
+[submodule "themes/hugo-future-imperfect-slim"]
+	path = themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
