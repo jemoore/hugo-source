@@ -1,0 +1,9 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:jemoore/jemoore.github.io.git
+[submodule "content"]
+	path = content
+	url = git@github.com:jemoore/hugo-content.git
+[submodule "themes/jht"]
+	path = themes/jht
+	url = git@github.com:jemoore/jemoore-hugo-theme.git
